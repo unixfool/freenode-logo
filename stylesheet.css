@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Scientia';
+    src: url('Scientia-Bold.eot');
+    src: url('Scientia-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Scientia-Bold.woff2') format('woff2'),
+        url('Scientia-Bold.woff') format('woff'),
+        url('Scientia-Bold.svg#Scientia-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
